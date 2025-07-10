@@ -1,0 +1,42 @@
+# root folders
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+
+# Cache directories (using wildcard pattern)
+*[Cc]ache/
+
+# non-root folders
+[Bb]ee/
+[Aa]rtifacts/
+[Bb]uilds/
+[Ww]ebGL Builds/
+
+Library/ArtifactDB*
+Library/SourceAssetDB*
+
+# Specific files
+connectwebgl.zip
+
+# Visual Studio / IDE files
+.vs/
+/.gradle/
+ExportedObj/
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity crash reports
+sysinfo.txt
+
